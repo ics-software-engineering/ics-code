@@ -1,0 +1,28 @@
+body, input {
+    font-family: sans-serif;
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
+.navbar {
+    border-color: #333333;
+    border-bottom: 1px solid black;
+    display: flex;
+    align-items: center;
+}
+
+textarea {
+    font-family: monospace;
+}
+
+.ics-logo {
+    height: 100%;
+}
+
+.navbar a {
+    background-color: #04027C !important; /* Blue background color */
+    color: #FFFFFF !important; /* White text color */
+    margin: 0.16em;
+    padding: 0.64em;
+    text-decoration-line: none;
+}
